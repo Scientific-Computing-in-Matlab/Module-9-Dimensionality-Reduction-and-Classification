@@ -11,9 +11,10 @@ At the end of the module you will be able to
 ## Materials
 The most efficient way to use the materials in this module are by reading and exploring them in the following order. 
 
-1. Start by reading and going through `./docs/principalComponentsAnalysis.mlx`. 
+1. Start by reading and going through `./docs/principalComponentsAnalysis.mlx`.  
 1. Read and go through an introduction to important concepts in classification in `./docs/classificationIntro.mlx`
 1. Learn about the theory and application of Support Vector Machines to binary and multiclass data in `./docs/classificationSVM.mlx`
+1. These MLX also have links to additional video tutorials that go deeper into some of the background of PCA, SVM, etc.
 
 ## Assignments
 
